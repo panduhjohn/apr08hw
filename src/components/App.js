@@ -1,9 +1,10 @@
 import React from 'react';
+import Dogs from './Dogs'
 
 const App = () => {
     return (
         <div>
-            <h1>Did this work?</h1>
+            <Dogs/>
         </div>
     );
 };
